@@ -1,0 +1,16 @@
+{
+  "name": "cy-dynamic-validations",
+  "version": "1.0.0",
+  "description": "Cypress Dynamic Validations",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "ernestosbarbosa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.3",
+    "dotenv": "^16.4.1",
+    "puppeteer": "^21.9.0"
+  }
+}
